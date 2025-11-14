@@ -4,3 +4,4 @@ plotly
 seaborn
 matplotlib
 wordcloud
+numpy
